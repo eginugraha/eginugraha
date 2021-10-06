@@ -13,5 +13,7 @@
 ### 👨‍💻 My favorite programming languages
 
 <p>
-    <a href="https://github.com/search?q=user%EgiNugraha+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aeginugraha+language%GO"><img alt="GO" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aeginugraha+language%HTML5"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aeginugraha+language%PHP"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
 </p>

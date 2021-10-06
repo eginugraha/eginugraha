@@ -21,6 +21,6 @@
 
 #### 💬 Networks
 <p>
-    <a href="https://www.linkedin.com/in/eginugraha/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/eginugraha/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=Linkedin&logoColor=white"></a>
     <a href="https://www.buymeacoffee.com/eginugraha"><img alt="BuyMeACoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black"></a>
 </p>

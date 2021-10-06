@@ -5,5 +5,5 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto-bold&color=%239A9A9A&size=16&center=true&vCenter=true&lines=Software+Engineer+from+Bandung;Falling+Love+with+Code+and+Design;Video+Games%2C+Mountaineering+and+Rock+Band"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica-bold&color=%23BBC3CA&size=16&center=true&vCenter=true&lines=Software+Engineer+from+Bandung;Falling+Love+with+Code+and+Design;Video+Games%2C+Mountaineering+and+Rock+Band"></a>
 </p>

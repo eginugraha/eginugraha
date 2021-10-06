@@ -10,10 +10,10 @@
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-### 👨‍💻 My favorite programming languages
+#### 👨‍💻 My programming languages
 
 <p>
-    <a href="https://github.com/search?q=user%3Aeginugraha+language%GO"><img alt="GO" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aeginugraha+language%HTML5"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aeginugraha+language%PHP"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aeginugraha+language%3AGO"><img alt="GO" src="https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aeginugraha+language%3AHTML5"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aeginugraha+language%3APHP"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
 </p>
